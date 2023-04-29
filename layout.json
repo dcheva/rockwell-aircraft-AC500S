@@ -1,0 +1,1849 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 317,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/AC500S.air",
+      "size": 9313,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/aircraft.cfg",
+      "size": 7125,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/cameras.cfg",
+      "size": 243,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/cockpit.cfg",
+      "size": 4522,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/engines.cfg",
+      "size": 12134,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/flight_model.cfg",
+      "size": 12101,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/gameplay.cfg",
+      "size": 1624,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/Readme.txt",
+      "size": 1905,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/runway.flt",
+      "size": 844,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/systems.cfg",
+      "size": 13380,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/ac500sv.mdl",
+      "size": 6636088,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I.xml",
+      "size": 4586,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior.XML",
+      "size": 69377,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD0.bin",
+      "size": 21402384,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD0.gltf",
+      "size": 853423,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD1.bin",
+      "size": 10947360,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD1.gltf",
+      "size": 808646,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD2.bin",
+      "size": 2766432,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD2.gltf",
+      "size": 210055,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD3.bin",
+      "size": 367836,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD3.gltf",
+      "size": 49187,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD4.bin",
+      "size": 106002,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD4.gltf",
+      "size": 4551,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD6.bin",
+      "size": 114,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_interior_LOD6.gltf",
+      "size": 2233,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD0.bin",
+      "size": 13759716,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD0.gltf",
+      "size": 265933,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD1.bin",
+      "size": 10166828,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD1.gltf",
+      "size": 264859,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD2.bin",
+      "size": 6144960,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD2.gltf",
+      "size": 253512,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD3.bin",
+      "size": 3694352,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD3.gltf",
+      "size": 246244,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD4.bin",
+      "size": 958412,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD4.gltf",
+      "size": 151408,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD5.bin",
+      "size": 760160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD5.gltf",
+      "size": 139521,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD6.bin",
+      "size": 6084,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/KINGAIR_350I_LOD6.gltf",
+      "size": 2901,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/model.vc/model.cfg",
+      "size": 62,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/Panel.blu/PANEL.CFG",
+      "size": 1174,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/Panel.blu/panel.xml",
+      "size": 37109,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_apdis.wav",
+      "size": 180856,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_flaps.wav",
+      "size": 314776,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_geardn.wav",
+      "size": 445986,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_gearup.wav",
+      "size": 545814,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_gearwarn.wav",
+      "size": 245340,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_gyro.wav",
+      "size": 2994312,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_noncomb1.wav",
+      "size": 57130,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_noncomb2.wav",
+      "size": 57130,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_prop1L.wav",
+      "size": 60714,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_prop1R.wav",
+      "size": 66858,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_prop2L.wav",
+      "size": 65322,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_prop2R.wav",
+      "size": 88874,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm1L.wav",
+      "size": 501948,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm1R.wav",
+      "size": 742060,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm2L.wav",
+      "size": 859156,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm2R.wav",
+      "size": 537004,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm3L.wav",
+      "size": 1255728,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm3R.wav",
+      "size": 1291328,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm4L.wav",
+      "size": 1004296,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpm4R.wav",
+      "size": 1183860,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_rpmC.wav",
+      "size": 1387948,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_shutdn.wav",
+      "size": 452236,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_stall.wav",
+      "size": 59610,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_starter.wav",
+      "size": 151406,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_startup.wav",
+      "size": 405640,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Aero_wind.wav",
+      "size": 1057452,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_apdisconnect.wav",
+      "size": 180856,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_falsestart_left.wav",
+      "size": 198778,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_falsestart_right.wav",
+      "size": 212090,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_flaps.wav",
+      "size": 179824,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_geardn.wav",
+      "size": 295032,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_gearup.wav",
+      "size": 319868,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_gearwarning.wav",
+      "size": 245340,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_gyro.wav",
+      "size": 1969680,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_noncombustion_left01.wav",
+      "size": 83828,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_noncombustion_left02.wav",
+      "size": 63228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_noncombustion_right01.wav",
+      "size": 101094,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_noncombustion_right02.wav",
+      "size": 167346,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop1a_left.wav",
+      "size": 62204,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop1a_right.wav",
+      "size": 66812,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop1b_left.wav",
+      "size": 69884,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop1b_right.wav",
+      "size": 66812,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop2a_left.wav",
+      "size": 64252,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop2a_right.wav",
+      "size": 62204,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop2b_left.wav",
+      "size": 75004,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_prop2b_right.wav",
+      "size": 75516,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm1_left.wav",
+      "size": 241312,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm1_right.wav",
+      "size": 223522,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm2_left.wav",
+      "size": 259108,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm2_right.wav",
+      "size": 259108,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm3_left.wav",
+      "size": 233770,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm3_right.wav",
+      "size": 255912,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm4_left.wav",
+      "size": 251858,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_rpm4_right.wav",
+      "size": 174852,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_shutdown_left.wav",
+      "size": 159866,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_shutdown_right.wav",
+      "size": 179322,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_stallhorn.wav",
+      "size": 88768,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_starter_left.wav",
+      "size": 54524,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_starter_right.wav",
+      "size": 54652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_startup_left.wav",
+      "size": 165188,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_startup_right.wav",
+      "size": 222208,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_switch01.wav",
+      "size": 3128,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_switch02.wav",
+      "size": 2420,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_switch03.wav",
+      "size": 2364,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/baron_switch04.wav",
+      "size": 3144,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/c4wind4.wav",
+      "size": 281146,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/door_small_close.wav",
+      "size": 57332,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/door_small_open.wav",
+      "size": 61424,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Original Aliased SOUND.CFG",
+      "size": 38,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/Readme.txt",
+      "size": 468,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/SOUND.CFG",
+      "size": 19313,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/wind_general.wav",
+      "size": 276114,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_noncomb1.wav",
+      "size": 57130,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_noncomb2.wav",
+      "size": 56576,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_prop1L.wav",
+      "size": 80170,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_prop1R.wav",
+      "size": 68394,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_prop2L.wav",
+      "size": 71978,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_prop2R.wav",
+      "size": 88874,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm1L.wav",
+      "size": 614600,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm1R.wav",
+      "size": 1054192,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm2L.wav",
+      "size": 882040,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm2R.wav",
+      "size": 882040,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm3L.wav",
+      "size": 746472,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm3R.wav",
+      "size": 1173060,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm4L.wav",
+      "size": 633604,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm4R.wav",
+      "size": 625484,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm5L.wav",
+      "size": 873272,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_rpm5R.wav",
+      "size": 556760,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_shutdn.wav",
+      "size": 452238,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_starter.wav",
+      "size": 93908,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xAero_startup.wav",
+      "size": 780148,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_falsestart_left.wav",
+      "size": 171642,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_falsestart_right.wav",
+      "size": 174202,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_noncombustion_left01.wav",
+      "size": 44174,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_noncombustion_left02.wav",
+      "size": 98660,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_noncombustion_right01.wav",
+      "size": 35090,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_noncombustion_right02.wav",
+      "size": 103848,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop1a_left.wav",
+      "size": 62204,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop1a_right.wav",
+      "size": 66812,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop1b_left.wav",
+      "size": 69884,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop1b_right.wav",
+      "size": 66812,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop2a_left.wav",
+      "size": 64252,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop2a_right.wav",
+      "size": 62204,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop2b_left.wav",
+      "size": 75004,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_prop2b_right.wav",
+      "size": 75516,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm1_left-f.wav",
+      "size": 242610,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm1_left-r.wav",
+      "size": 242610,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm1_right-f.wav",
+      "size": 200250,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm1_right-r.wav",
+      "size": 200250,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm2_left-f.wav",
+      "size": 254138,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm2_left-r.wav",
+      "size": 254138,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm2_right-f.wav",
+      "size": 228888,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm2_right-r.wav",
+      "size": 228888,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm3_left-f.wav",
+      "size": 218370,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm3_left-r.wav",
+      "size": 218370,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm3_right-f.wav",
+      "size": 274142,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm3_right-r.wav",
+      "size": 274142,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm4_left-f.wav",
+      "size": 175778,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm4_left-r.wav",
+      "size": 175778,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm4_right-f.wav",
+      "size": 219784,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_rpm4_right-r.wav",
+      "size": 219784,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_shutdown_left.wav",
+      "size": 148040,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_shutdown_right.wav",
+      "size": 149628,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_starter_left.wav",
+      "size": 35706,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_starter_right.wav",
+      "size": 43900,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_startup_left.wav",
+      "size": 325316,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/sound/xbaron_startup_right.wav",
+      "size": 360884,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/acpropmesh.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/back_wall_t.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/belt.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/blacktexture.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/brakes9.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/Cabin_Glass.dds",
+      "size": 4224,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/carpet_b_l.dds",
+      "size": 21972,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/centerpost.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/chrome_diff.dds",
+      "size": 16512,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/chrome_spec.dds",
+      "size": 16512,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/chrome_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/ecutension.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/engine.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/face.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/floorcarpet14.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/floorcarpet14dark.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/Fresnel_Ramp.dds",
+      "size": 640,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/fusen_t_bump.dds",
+      "size": 5616,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/fusen_t_spec.dds",
+      "size": 5616,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/glare_shield_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/glass_diff.dds",
+      "size": 16512,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/Glass_fresnel_red.dds",
+      "size": 1152,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/gps ant.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/greytex.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/grey_prop.dds",
+      "size": 174888,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/headsetdarkgreengray.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/headsetdarkredgray.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_DETAILS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_DETAILS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_DETAILS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_DETAILS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_DETAILS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_FLOOR_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_LIGHT_EMIS.PNG.DDS",
+      "size": 312,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_LIGHT_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_SEATS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_CABIN_WALL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_AVIONICS_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_AVIONICS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_AVIONICS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_AVIONICS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_AVIONICS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_DECALS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_DECALS_ALBD.TIF.DDS.FLAGS",
+      "size": 18,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_DECALS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_DECALS_ALBD.TIF.png",
+      "size": 1507867,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_DECALS_EMIS.PNG.DDS",
+      "size": 1398256,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_DECALS_EMIS.PNG.DDS.json",
+      "size": 119,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_FLOOR_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGEGLASS_COMP.PNG.DDS",
+      "size": 516,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGEGLASS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGEGLASS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_EMIS.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_EMIS.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GAUGES_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_ALBD.PNG.DDS",
+      "size": 496,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_COMP.PNG.DDS",
+      "size": 349700,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_EMISS.PNG.DDS",
+      "size": 174904,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_GEARLEVER_EMISS.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_EMIS.PNG.DDS",
+      "size": 699192,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_INPUTS_NORM.PNG.DDS.json",
+      "size": 177,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_OVERHEAD_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_PEDESTAL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_SEATS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_WINDSHIELD_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_WINDSHIELD_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_WINDSHIELD_COMP.PNG.DDS",
+      "size": 349700,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_WINDSHIELD_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_WINDSHIELD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_COMP.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/KINGAIR350I_COCKPIT_YOKE_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/knobs_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/landlite.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/leather.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/levers_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/molding1.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/nacellel_t_bump.dds",
+      "size": 5616,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/nacellel_t_spec.dds",
+      "size": 5616,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/nacelle_t_bump.dds",
+      "size": 5616,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/nacelle_t_spec.dds",
+      "size": 5616,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/oat560_l.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/overhead_l.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/parkerize.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/parts.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/pilotfacel.dds",
+      "size": 699176,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/pilotlog.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/redgreen.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/roof.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/seat_base.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/sectional.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/side_wall_t.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/spinner_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/stuff.dds",
+      "size": 5592532,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/tabletop_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/texture.cfg",
+      "size": 174,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/tireblack.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/tire_main_t.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/tire_main_t_spec.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/upper_wall.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vc05_l.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vc09_l.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vccompass_l.dds",
+      "size": 1492,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vcctr_l.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vcecu_l.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vcglare_l.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vcleft_l.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/vcright_l.dds",
+      "size": 349652,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/wall.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/wheelfront.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/wheelmain.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/wheel_well.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/white_stuff.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/white_stuff_spec.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture/yoke_t.dds",
+      "size": 87508,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.hoover/fusen_t.dds",
+      "size": 5592532,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.hoover/naccellel_t.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.hoover/naccelle_t.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.hoover/texture.cfg",
+      "size": 498,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.hoover/thumbnail.jpg",
+      "size": 5796,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N500S/fusen_t.dds",
+      "size": 5592532,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N500S/naccellel_t.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N500S/naccelle_t.dds",
+      "size": 1398228,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N500S/texture.cfg",
+      "size": 498,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N500S/thumbnail.jpg",
+      "size": 5452,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N6275/fusen_t.dds",
+      "size": 5592532,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N6275/naccellel_t.dds",
+      "size": 5592532,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N6275/naccelle_t.dds",
+      "size": 5592532,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N6275/texture.cfg",
+      "size": 498,
+      "date": 133003476000000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/rockwell-aircraft-AC500S/texture.N6275/thumbnail.jpg",
+      "size": 5873,
+      "date": 133003476000000000
+    }
+  ]
+}
