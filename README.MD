@@ -13,3 +13,4 @@ Fixed values for use in FSEconomy
 - 23/04/28 begin
 - 23/05 release with C172 panel
 - 23/05 correct DDS textures
+- 23/05 add modern soundbank
